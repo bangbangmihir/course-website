@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# live on:-https://bangbangmihir.github.io/course-website/ then click on button to show details
 
 ## Available Scripts
 
